@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="submit">submit</string>
+    <string name="check_your_knowledge_related_to_android">Check Your Knowledge Related to Android</string>
+    <string name="each_question_carry_2_marks_total_20_marks">each question carry 2 marks (total:20 marks)</string>
+
+
+    <string name="question1">1) What is splash screen in android?</string>
+    <string name="q1a1">Initial activity of an application.</string>
+    <string name="q1a2">Initial service of an application.</string>
+    <string name="q1a3">Initial method of an application.</string>
+    <string name="q1a4">Initial screen of an application</string>
+    <string name="q1a4True">true</string>
+
+
+    <string name="question2">2) What is a GCM in android?</string>
+    <string name="q2a1">Goggle Could Messaging for chrome.</string>
+    <string name="q2a2">Goggle Count Messaging.</string>
+    <string name="q2a3">Goggle Message pack.</string>
+    <string name="q2a4">None of the above.</string>
+    <string name="q2a1True">true</string>
+
+    <string name="question3">3) How many ports are allocated for new emulator?</string>
+    <string name="q3a1">2</string>
+    <string name="q3a2">0</string>
+    <string name="q3a3">10</string>
+    <string name="q3a4">None of the above.</string>
+    <string name="q3a1True">true</string>
+
+    <string name="question4">4) What is an HTTP client class in android?</string>
+    <string name="q4a1">Cookies management.</string>
+    <string name="q4a2">httprequest(get/post) and returns response from the server</string>
+    <string name="q4a3">Authentication management.</string>
+    <string name="q4a4">None of the above.</string>
+    <string name="q4a2True">true</string>
+
+    <string name="question5">5) Choose the different types of Views.</string>
+    <string name="q5a1">TextView</string>
+    <string name="q5a2">RecyclerView</string>
+    <string name="q5a3">ImageView</string>
+    <string name="q5a4">colorView</string>
+
+    <string name="question6">6) Which permissions are required to get a location in android??</string>
+    <string name="q6a1">GPRS permission.</string>
+    <string name="q6a2">Internet permission.</string>
+    <string name="q6a3">WIFI permission..</string>
+    <string name="q6a4">ACCESS_FINE and ACCESS_COARSE.</string>
+
+    <style name="q6a4True">true</style>
+
+    <string name="question7">7) Choose TextView attributes.</string>
+    <string name="q6a4True">true</string>
+    <string name="q7a1">textStyle</string>
+    <string name="q7a2">src</string>
+    <string name="q7a3">textSize</string>
+    <string name="q7a4">textColor</string>
+
+    <string name="question8">8) What is the difference between content values and cursor in android SQlite?</string>
+    <string name="q8a1">Content values are key pair values, which are updated or inserted in the database.</string>
+    <string name="q8a2">Cursor is used to store the temporary result.</string>
+    <string name="q8a3">Content values are used to share the data.</string>
+    <string name="q8a4">None of the above.</string>
+
+    <string name="question9">9) What is the unit of textSize?</string>
+    <string name="ans9">Text</string>
+    <string name="q9ans">sp</string>
+
+    <string name="question10">10) Write the name of textView attribute to set text size.</string>
+    <string name="ans10">Text</string>
+    <string name="q10ans">textSize</string>
+    <string name="score">Score</string>
+
+
+</resources>
